@@ -1,4 +1,3 @@
-#pragma once
 #include "document.h"
 #include <iostream>
 #include <sstream>

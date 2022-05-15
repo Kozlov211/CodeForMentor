@@ -1,4 +1,3 @@
-#pragma once
 #include "request_queue.h"
 
 using namespace std;
